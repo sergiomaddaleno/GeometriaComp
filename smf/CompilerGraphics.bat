@@ -1,0 +1,1 @@
+cl /nologo /Zi /GR- /EHs /MDd ./test.cc -I .\ESAT\Lib_Graph\ESAT_rev225\include -I . .\smfLibrary_d.lib .\smfLibrary_d.lib opengl32.lib user32.lib gdi32.lib shell32.lib Ws2_32.lib
